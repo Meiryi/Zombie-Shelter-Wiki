@@ -241,7 +241,7 @@ ZShelter.AddTranslate("#Propeller Trap",{
 })
 ZShelter.AddTranslate("#Basic Turret",{
 	["en"] = "Basic Turret",
-	["tr"] = "Basit Taret",
+	["tr"] = "Temel Taret",
 	["ru"] = "Основная турель",
 	["zh-TW"] = "槍塔",
 	["zh-CN"] = "",
