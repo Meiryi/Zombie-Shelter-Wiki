@@ -95,7 +95,7 @@ ZShelter.AddTranslate("#Turret",{
 ZShelter.AddTranslate("#Generator",{
 	["en"] = "Generator",
 	["tr"] = "Jeneratör",
-	["ru"] = "Генераторы",
+	["ru"] = "Генератор",
 	["zh-TW"] = "發電機",
 	["zh-CN"] = "",
 })
