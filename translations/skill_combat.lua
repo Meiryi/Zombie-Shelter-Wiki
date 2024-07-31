@@ -142,13 +142,13 @@ ZShelter.AddInfo("Grenade Supply", {
 ZShelter.AddInfo("Double Tap", {
 	title = {
 		["en"] = "Double Tap",
-		["tr"] = "Çift Hasar",
+		["tr"] = "İki Kat Hasar",
 		["zh-TW"] = "二次打擊",
 		["ru"] = "Контрольный выстрел",
 	},
 	desc = {
 		["en"] = "20% Chances to deal double damage",
-		["tr"] = "Çift hasar vermek için %20 şans",
+		["tr"] = "İki kat hasar vermek için %20 şans",
 		["zh-TW"] = "20% 機率造成雙倍傷害",
 		["ru"] = "20% шанс нанести двойной урон",
 	}
