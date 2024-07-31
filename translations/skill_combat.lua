@@ -16,7 +16,7 @@
 ZShelter.AddInfo("Health Boost", {
 	title = {
 		["en"] = "Health Boost",
-		["tr"] = "Sağlık Artışı",
+		["tr"] = "Sağlık",
 		["zh-TW"] = "體力提升",
 		["ru"] = "Укрепление здоровья",
 	},
@@ -30,7 +30,7 @@ ZShelter.AddInfo("Health Boost", {
 ZShelter.AddInfo("Damage Boost", {
 	title = {
 		["en"] = "Damage Boost",
-		["tr"] = "Hasar Artışı",
+		["tr"] = "Hasar",
 		["zh-TW"] = "傷害提升",
 		["ru"] = "Усиление урона",
 	},
@@ -44,7 +44,7 @@ ZShelter.AddInfo("Damage Boost", {
 ZShelter.AddInfo("Damage Boostx1", {
 	title = {
 		["en"] = "Damage Boost",
-		["tr"] = "Hasar Artışı",
+		["tr"] = "Hasar",
 		["zh-TW"] = "傷害提升",
 		["ru"] = "Усиление урона",
 	},
@@ -58,7 +58,7 @@ ZShelter.AddInfo("Damage Boostx1", {
 ZShelter.AddInfo("Damage Boostx2", {
 	title = {
 		["en"] = "Damage Boost",
-		["tr"] = "Hasar Artışı",
+		["tr"] = "Hasar",
 		["zh-TW"] = "傷害提升",
 		["ru"] = "Усиление урона",
 	},
@@ -184,7 +184,7 @@ ZShelter.AddInfo("Airstrike", {
 ZShelter.AddInfo("Combat Stimpack", {
 	title = {
 		["en"] = "Combat Stimpack",
-		["tr"] = "Savaş İlacı",
+		["tr"] = "Uyarıcı Savaş İlacı",
 		["zh-TW"] = "力量注射劑",
 		["ru"] = "Боевой стимулятор",
 	},
@@ -288,7 +288,7 @@ ZShelter.AddInfo("Double Trigger", {
 	},
 	desc = {
 		["en"] = "Attack additional targets when you shoot\n+1 Target per upgrade\n+10 Damage per upgrade (Base damage 25)",
-		["tr"] = "Ateş ettiğinizde birçok hedefe saldırın\nYükseltme başına +1 hedef artırır\nYükseltme başına +10 Hasar (Temel hasar 25)",
+		["tr"] = "Ateş ettiğinizde birçok hedefe saldırın\nYükseltme başına +1 hedef\nYükseltme başına +10 Hasar (Temel hasar 25)",
 		["zh-TW"] = "開火時額外多攻擊一個目標\n每升級一次多增加一個攻擊目標\n每升級一次多增加 10 傷害 (基礎傷害25)",
 		["ru"] = "Атакуйте дополнительные цели, когда стреляете\n+1 цель за улучшение\n+10 ед. урона за улучшение (основной урон: 25 ед.)",
 	}
