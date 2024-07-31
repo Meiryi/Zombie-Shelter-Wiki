@@ -339,7 +339,7 @@ ZShelter.AddTranslate("#Combine Mortar Cannon",{
 })
 ZShelter.AddTranslate("#Basic Generator",{
 	["en"] = "Basic Generator",
-	["tr"] = "Basit Jeneratör",
+	["tr"] = "Temel Seviye Jeneratör",
 	["ru"] = "Основной генератор",
 	["zh-TW"] = "發電機",
 	["zh-CN"] = "",
@@ -395,7 +395,7 @@ ZShelter.AddTranslate("#Campfire",{
 })
 ZShelter.AddTranslate("#Basic Storage",{
 	["en"] = "Basic Storage",
-	["tr"] = "Basit Depo",
+	["tr"] = "Temel Seviye Depo",
 	["ru"] = "Основной склад",
 	["zh-TW"] = "小倉庫",
 	["zh-CN"] = "",
@@ -661,7 +661,7 @@ ZShelter.AddTranslate("#Survival", {
 })
 ZShelter.AddTranslate("#Engineer", {
 	["en"] = "Engineer",
-	["tr"] = "Mühendis",
+	["tr"] = "Mühendislik",
 	["ru"] = "Инженерия",
 	["zh-TW"] = "工程師",
 	["zh-CN"] = "",
@@ -682,7 +682,7 @@ ZShelter.AddTranslate("#SMG", {
 })
 ZShelter.AddTranslate("#Shotgun", {
 	["en"] = "Shotgun",
-	["tr"] = "Pompalı",
+	["tr"] = "Pompalı Tüfek",
 	["ru"] = "Дробовики",
 	["zh-TW"] = "霰彈槍",
 	["zh-CN"] = "",
@@ -723,7 +723,7 @@ ZShelter.AddTranslate("#ShelterPos",{
 	["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#ShelterDesc",{
-	["en"] = "Position for shelter to spawn, require atleast one to make the game playable",
+	["en"] = "Position for shelter to spawn, require at least one to make the game playable",
 	["tr"] = "Canlanmak için sığınak pozisyonu, oyunun oynanabilmesi için en az bir tane gerekli",
 	["ru"] = "Размещение точки для появления убежища, требуется хотя бы одна для игры",
 	["zh-TW"] = "避難所的生成點, 至少需要一個遊戲才可進行",
@@ -738,7 +738,7 @@ ZShelter.AddTranslate("#BarricadePos",{
 })
 ZShelter.AddTranslate("#BarricadeDesc",{
 	["en"] = "A big container used to block player's path",
-	["tr"] = "Oyunucuyu engellemek için büyük bir konteyner",
+	["tr"] = "Oyuncuyu engellemek için büyük bir konteyner",
 	["ru"] = "Красный контейнер на пути, используется, чтобы преградить путь игроку",
 	["zh-TW"] = "可以擋住玩家路線的紅色集裝箱",
 	["zh-CN"] = "",
@@ -822,7 +822,7 @@ ZShelter.AddTranslate("#AvgFail",{
 })
 ZShelter.AddTranslate("#TotalPlayed",{
 	["en"] = "<VAR> Plays recorded",
-	["tr"] = "Toplam Oynama: <VAR>",
+	["tr"] = "Toplam Oynanma: <VAR>",
 	["ru"] = "Записано игр: <VAR>",
 	["zh-TW"] = "<VAR> 已記錄的遊玩紀錄",
 	["zh-CN"] = "",
@@ -857,7 +857,7 @@ ZShelter.AddTranslate("#Fetching", {
 })
 ZShelter.AddTranslate("#FindOtherPlayer", {
 	["en"] = "Look for other players to play with!",
-	["tr"] = "Oynamak için oyuncu bul!",
+	["tr"] = "Oynamak için oyuncu ara!",
 	["ru"] = "Найдите других игроков, с которыми можно поиграть!",
 	["zh-TW"] = "尋找其他玩家一起進行遊戲!",
 	["zh-CN"] = "",
