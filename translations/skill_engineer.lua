@@ -100,7 +100,7 @@ ZShelter.AddInfo("Advanced Engineering", {
 ZShelter.AddInfo("Repair Speed Boost", {
 	title = {
 		["en"] = "Repair Speed Boost",
-		["tr"] = "Tamir Hızı,
+		["tr"] = "Tamir Hızı",
 		["zh-TW"] = "增加修復速度",
 		["ru"] = "Увеличение скорости ремонта",
 	},
