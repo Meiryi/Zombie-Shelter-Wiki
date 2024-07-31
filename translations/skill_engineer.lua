@@ -120,7 +120,7 @@ ZShelter.AddInfo("Auto Repair", {
 	},
 	desc = {
 		["en"] = "Auto repairs nearby buildings, +256 unit radius and 20% repair speed per upgrade",
-		["tr"] = "Yakındaki yapıları otomatik olarak tamir eder, yükseltme başına +256 birim mesafe ve %20 tamir hızı",
+		["tr"] = "Yakındaki yapıları otomatik olarak tamir eder, yükseltme başına +256 birim alan ve %20 tamir hızı",
 		["zh-TW"] = "自動修復附近建築, 每升級一次增加 256 修復半徑 和 20% 修復速度",
 		["ru"] = "Автоматически чинит ближайшие строения.\nРадиус +256 единиц и +20% к скорости ремонта за улучшение",
 	}
@@ -162,7 +162,7 @@ ZShelter.AddInfo("Expert Engineering", {
 	},
 	desc = {
 		["en"] = "Allows you to build advanced buildings",
-		["tr"] = "Gelişmiş binalar inşa etmenizi sağlar",
+		["tr"] = "Gelişmiş yapılar inşa etmenizi sağlar",
 		["zh-TW"] = "可建造進階建築物",
 		["ru"] = "Позволяет строить более продвинутые строения",
 	}
