@@ -87,7 +87,7 @@ ZShelter.AddTranslate("#Trap",{
 })
 ZShelter.AddTranslate("#Turret",{
 	["en"] = "Turret",
-	["en"] = "Taret",
+	["tr"] = "Taret",
 	["ru"] = "Турели",
 	["zh-TW"] = "砲塔",
 	["zh-CN"] = "",
@@ -193,7 +193,7 @@ ZShelter.AddTranslate("#Reinforced Concrete Wall",{
 ZShelter.AddTranslate("#Concrete Barricade",{
 	["en"] = "Concrete Barricade",
 	["tr"] = "Beton Barikat",
-    	["ru"] = "Бетонная баррикада",
+    ["ru"] = "Бетонная баррикада",
 	["zh-TW"] = "水泥路障",
 	["zh-CN"] = "",
 })
@@ -851,7 +851,7 @@ ZShelter.AddTranslate("#OnlinePlayers", {
 ZShelter.AddTranslate("#Fetching", {
 	["en"] = "Fetching..",
 	["tr"] = "Getiriliyor..",
-    	["ru"] = "Поиск..",
+    ["ru"] = "Поиск..",
 	["zh-TW"] = "載入中..",
 	["zh-CN"] = "",
 })
@@ -865,107 +865,107 @@ ZShelter.AddTranslate("#FindOtherPlayer", {
 ZShelter.AddTranslate("#NDay", {
 	["en"] = "Day <VAR>",
 	["tr"] = "Gün <VAR>",
-    	["ru"] = "День <VAR>",
+    ["ru"] = "День <VAR>",
 	["zh-TW"] = "第<VAR>天",
 	["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#ConnectionHint", {
-        ["en"] = "Connection might take a while, please be patient",
+    ["en"] = "Connection might take a while, please be patient",
 	["tr"] = "Bağlanmak biraz sürebilir, lütfen sabırlı olun",
-    	["ru"] = "Подключение может занять некоторое время, пожалуйста, будьте терпеливы",
-        ["zh-TW"] = "連線需要一段時間, 請耐心等待",
-        ["zh-CN"] = "",
+    ["ru"] = "Подключение может занять некоторое время, пожалуйста, будьте терпеливы",
+    ["zh-TW"] = "連線需要一段時間, 請耐心等待",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Updates", {
-        ["en"] = "Updates",
+    ["en"] = "Updates",
 	["tr"] = "Güncellemeler",
-    	["ru"] = "Обновления",
-        ["zh-TW"] = "內容更新",
-        ["zh-CN"] = "",
+    ["ru"] = "Обновления",
+    ["zh-TW"] = "內容更新",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Statistics", {
-        ["en"] = "Statistics",
+    ["en"] = "Statistics",
 	["tr"] = "İstatistik",
-    	["ru"] = "Статистика",
-        ["zh-TW"] = "統計",
-        ["zh-CN"] = "",
+    ["ru"] = "Статистика",
+    ["zh-TW"] = "統計",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Looking2play", {
-        ["en"] = "Looking to play",
+    ["en"] = "Looking to play",
 	["tr"] = "Oyun oynamak istiyor",
-    	["ru"] = "Поиск игры",
-        ["zh-TW"] = "尋找遊戲",
-        ["zh-CN"] = "",
+    ["ru"] = "Поиск игры",
+    ["zh-TW"] = "尋找遊戲",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#LocalSv", {
-        ["en"] = "Local Server",
+    ["en"] = "Local Server",
 	["tr"] = "Yerel Sunucu",
-    	["ru"] = "Локальный сервер",
-        ["zh-TW"] = "本地端伺服器",
-        ["zh-CN"] = "",
+    ["ru"] = "Локальный сервер",
+    ["zh-TW"] = "本地端伺服器",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Summery", {
-        ["en"] = "Summary",
+    ["en"] = "Summary",
 	["tr"] = "Özet",
-    	["ru"] = "Итоги",
-        ["zh-TW"] = "總結",
-        ["zh-CN"] = "",
+    ["ru"] = "Итоги",
+    ["zh-TW"] = "總結",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#MapVote", {
-        ["en"] = "Map Vote",
+    ["en"] = "Map Vote",
 	["tr"] = "Harita Oylama",
-    	["ru"] = "Голосование за карту",
-        ["zh-TW"] = "地圖投票",
-        ["zh-CN"] = "",
+    ["ru"] = "Голосование за карту",
+    ["zh-TW"] = "地圖投票",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Defeat", {
-        ["en"] = "Defeat!",
+    ["en"] = "Defeat!",
 	["tr"] = "Mağlubiyet!",
-    	["ru"] = "Поражение!",
-        ["zh-TW"] = "失敗!",
-        ["zh-CN"] = "",
+    ["ru"] = "Поражение!",
+    ["zh-TW"] = "失敗!",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#ShelterDestroyed", {
-        ["en"] = "Shelter has been destroyed!",
+    ["en"] = "Shelter has been destroyed!",
 	["tr"] = "Sığınak yok edildi!",
-    	["ru"] = "Убежище уничтожено!",
-        ["zh-TW"] = "避難所被摧毀了!",
-        ["zh-CN"] = "",
+    ["ru"] = "Убежище уничтожено!",
+    ["zh-TW"] = "避難所被摧毀了!",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Victory", {
-        ["en"] = "Victory!",
+    ["en"] = "Victory!",
 	["tr"] = "Galibiyet!",
-    	["ru"] = "Победа!",
-        ["zh-TW"] = "勝利!",
-        ["zh-CN"] = "",
+    ["ru"] = "Победа!",
+    ["zh-TW"] = "勝利!",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Survived30Day", {
-        ["en"] = "Successfully survived to day 30",
+    ["en"] = "Successfully survived to day 30",
 	["tr"] = "Başarıyla 30. güne kadar hayatta kalındı",
-    	["ru"] = "Удалось дожить до 30-го дня",
-        ["zh-TW"] = "成功生存到第30天",
-        ["zh-CN"] = "",
+    ["ru"] = "Удалось дожить до 30-го дня",
+    ["zh-TW"] = "成功生存到第30天",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Survived15Day", {
-        ["en"] = "Successfully survived to day 15",
+    ["en"] = "Successfully survived to day 15",
 	["tr"] = "Başarıyla 15. güne kadar hayatta kalındı",
-        ["ru"] = "Удалось дожить до 15-го дня",
-        ["zh-TW"] = "成功生存到第15天",
-        ["zh-CN"] = "",
+    ["ru"] = "Удалось дожить до 15-го дня",
+    ["zh-TW"] = "成功生存到第15天",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#PTS", {
-        ["en"] = "<VAR> pts",
+    ["en"] = "<VAR> pts",
 	["tr"] = "<VAR> puan",
-    	["ru"] = "<VAR> очк.",
-        ["zh-TW"] = "<VAR> 貢獻點",
-        ["zh-CN"] = "",
+    ["ru"] = "<VAR> очк.",
+    ["zh-TW"] = "<VAR> 貢獻點",
+    ["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#MVP", { -- IT'S LITERALLY THE SAME LOL
-        ["en"] = "[MVP] <VAR>",
+    ["en"] = "[MVP] <VAR>",
 	["tr"] = "[EDO] <VAR>",
-        ["ru"] = "[СЦИ] <VAR>",
-        ["zh-TW"] = "[MVP] <VAR>",
-        ["zh-CN"] = "",
+    ["ru"] = "[СЦИ] <VAR>",
+    ["zh-TW"] = "[MVP] <VAR>",
+    ["zh-CN"] = "",
 })
 
 

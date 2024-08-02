@@ -30,13 +30,13 @@ ZShelter.AddInfo("Speed Boost", {
 ZShelter.AddInfo("Sanity Boost", {
 	title = {
 		["en"] = "Sanity Boost",
-		["tr"] = "Akıl Sağlığı"
+		["tr"] = "Akıl Sağlığı",
 		["zh-TW"] = "增強理智",
 		["ru"] = "Укрепление рассудка",
 	},
 	desc = {
 		["en"] = "Decreases sanity drain rate, -15% per upgrade",
-		["tr"] = "Akıl sağlığı azalma oranını azaltır, yükseltme başına -%15"
+		["tr"] = "Akıl sağlığı azalma oranını azaltır, yükseltme başına -%15",
 		["zh-TW"] = "減少理智消耗, 每升級一次減少 15%",
 		["ru"] = "Уменьшает скорость потери рассудка, -15% за улучшение",
 	}
