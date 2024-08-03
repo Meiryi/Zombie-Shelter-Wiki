@@ -395,14 +395,14 @@ ZShelter.AddTranslate("#Campfire",{
 })
 ZShelter.AddTranslate("#Basic Storage",{
 	["en"] = "Basic Storage",
-	["tr"] = "Temel Seviye Depo",
+	["tr"] = "Temel  Depo",
 	["ru"] = "Основной склад",
 	["zh-TW"] = "小倉庫",
 	["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Medium Storage",{
 	["en"] = "Medium Storage",
-	["tr"] = "Orta Seviye Depo",
+	["tr"] = "Orta  Depo",
 	["ru"] = "Средний склад",
 	["zh-TW"] = "中型倉庫",
 	["zh-CN"] = "",
@@ -710,7 +710,7 @@ ZShelter.AddTranslate("#Close", {
 })
 ZShelter.AddTranslate("#ShelterNick", {
 	["en"] = "Tier <VAR> Shelter",
-	["tr"] = "<VAR> Seviye Sığınak",
+	["tr"] = "Seviye <VAR> Sığınak",
 	["ru"] = "Убежище <VAR>-го ур.",
 	["zh-TW"] = "<VAR> 級避難所",
 	["zh-CN"] = "",
