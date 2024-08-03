@@ -11,6 +11,11 @@
 	ZH-CN :
 	昼夜求生 v2.0 by Meiryi  / Meika / Shiro / Shigure
 	任何形式的编辑是不被允许的 (包括模式的名称), 若有问题请在Steam上联络我
+
+	TR :
+	Meiryi / Meika / Shiro / Shigure tarafından Zombie Shelter v2.0
+	Oyun modunun ismini ve kodunu ASLA değiştirip düzenleyip yeniden yükleyemezsiniz.
+	Eğer bir problemle karşılaşırsanız, benimle Steam üzerinden iletişime geçebilirsiniz. Bu metni okuduğunuz için teşekkürler.
 ]]
 
 ZShelter.Lang = {}
@@ -115,7 +120,7 @@ ZShelter.AddTranslate("#Storage",{
 })
 ZShelter.AddTranslate("#Public Construction",{
 	["en"] = "Public Construction",
-	["tr"] = "Herkese Açık İnşaat",
+	["tr"] = "Ortak Yapı",
 	["ru"] = "Общ. строительство",
 	["zh-TW"] = "公共建設",
 	["zh-CN"] = "",
@@ -458,7 +463,7 @@ ZShelter.AddTranslate("#Not Ready",{
 })
 ZShelter.AddTranslate("#ReadyHint",{
 	["en"] = "Press F4 to ready",
-	["tr"] = "Hazırlamak için F4'e basın",
+	["tr"] = "Hazırlanmak için F4'e basın",
 	["ru"] = "F4 - готовность",
 	["zh-TW"] = "F4 - 準備",
 	["zh-CN"] = "",
@@ -710,7 +715,7 @@ ZShelter.AddTranslate("#Close", {
 })
 ZShelter.AddTranslate("#ShelterNick", {
 	["en"] = "Tier <VAR> Shelter",
-	["tr"] = "<VAR> Seviye Sığınak",
+	["tr"] = "Seviye <VAR> Sığınak",
 	["ru"] = "Убежище <VAR>-го ур.",
 	["zh-TW"] = "<VAR> 級避難所",
 	["zh-CN"] = "",
