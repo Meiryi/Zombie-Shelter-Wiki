@@ -86,7 +86,7 @@ ZShelter.AddInfo("Advanced Gathering", {
 ZShelter.AddInfo("Chain Gathering", {
 	title = {
 		["en"] = "Chain Gathering",
-		["tr"] = "Zincirleme Toplama",
+		["tr"] = "Çoklu Toplama",
 		["zh-TW"] = "連鎖採集",
 		["ru"] = "Цепной сбор",
 	},
@@ -148,7 +148,7 @@ ZShelter.AddInfo("Cloaking", {
 	},
 	desc = {
 		["en"] = "Become invisible for 30 seconds, enemy cannot see you while you're invisible",
-		["tr"] = "30 saniye boyunca görünmez ol, düşman seni görünmezken göremez",
+		["tr"] = "30 saniye boyunca görünmez olursun, düşman seni görünmezken göremez",
 		["zh-TW"] = "隱身30秒, 隱身時不會被敵人攻擊",
 		["ru"] = "Становитесь невидимым на 30 секунд, враги не видят вас, пока вы невидимы",
 	}
@@ -184,7 +184,7 @@ ZShelter.AddInfo("Campfire", {
 ZShelter.AddInfo("Trap Damage Boost", {
 	title = {
 		["en"] = "Trap Damage Boost",
-		["tr"] = "Tuzak Hasar Yükseltmesi",
+		["tr"] = "Tuzak Hasarı",
 		["zh-TW"] = "提升陷阱傷害",
 		["ru"] = "Увеличение урона ловушек",
 	},
