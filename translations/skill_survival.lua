@@ -11,6 +11,11 @@
 	ZH-CN :
 	昼夜求生 v2.0 by Meiryi  / Meika / Shiro / Shigure
 	任何形式的编辑是不被允许的 (包括模式的名称), 若有问题请在Steam上联络我
+
+	TR :
+	Meiryi / Meika / Shiro / Shigure tarafından Zombie Shelter v2.0
+	Oyun modunun ismini ve kodunu ASLA değiştirip düzenleyip yeniden yükleyemezsiniz.
+	Eğer bir problemle karşılaşırsanız, benimle Steam üzerinden iletişime geçebilirsiniz. Bu metni okuduğunuz için teşekkürler.
 ]]
 
 ZShelter.AddInfo("Speed Boost", {
