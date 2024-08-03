@@ -115,7 +115,7 @@ ZShelter.AddTranslate("#Storage",{
 })
 ZShelter.AddTranslate("#Public Construction",{
 	["en"] = "Public Construction",
-	["tr"] = "Herkese Açık İnşaat",
+	["tr"] = "Ortak Yapı",
 	["ru"] = "Общ. строительство",
 	["zh-TW"] = "公共建設",
 	["zh-CN"] = "",
@@ -395,14 +395,14 @@ ZShelter.AddTranslate("#Campfire",{
 })
 ZShelter.AddTranslate("#Basic Storage",{
 	["en"] = "Basic Storage",
-	["tr"] = "Temel  Depo",
+	["tr"] = "Temel Seviye Depo",
 	["ru"] = "Основной склад",
 	["zh-TW"] = "小倉庫",
 	["zh-CN"] = "",
 })
 ZShelter.AddTranslate("#Medium Storage",{
 	["en"] = "Medium Storage",
-	["tr"] = "Orta  Depo",
+	["tr"] = "Orta Seviye Depo",
 	["ru"] = "Средний склад",
 	["zh-TW"] = "中型倉庫",
 	["zh-CN"] = "",
