@@ -458,7 +458,7 @@ ZShelter.AddTranslate("#Not Ready",{
 })
 ZShelter.AddTranslate("#ReadyHint",{
 	["en"] = "Press F4 to ready",
-	["tr"] = "Hazırlamak için F4'e basın",
+	["tr"] = "Hazırlanmak için F4'e basın",
 	["ru"] = "F4 - готовность",
 	["zh-TW"] = "F4 - 準備",
 	["zh-CN"] = "",
