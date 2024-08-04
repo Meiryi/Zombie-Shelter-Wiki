@@ -131,7 +131,7 @@ ZShelter.AddTranslate("#Storage", {
 
 ZShelter.AddTranslate("#Public Construction", {
 	["en"] = "Public Construction",
-	["tr"] = "Herkese Açık İnşaat",
+	["tr"] = "Ortak Yapı",
 	["ru"] = "Общ. строительство",
 	["zh-TW"] = "公共建設",
 	["zh-CN"] = "公共设施",
@@ -523,7 +523,7 @@ ZShelter.AddTranslate("#Not Ready", {
 
 ZShelter.AddTranslate("#ReadyHint", {
 	["en"] = "Press F4 to ready",
-	["tr"] = "Hazırlamak için F4'e basın",
+	["tr"] = "Hazırlanmak için F4'e basın",
 	["ru"] = "F4 - готовность",
 	["zh-TW"] = "F4 - 準備",
 	["zh-CN"] = "F4 - 准备",
@@ -811,7 +811,7 @@ ZShelter.AddTranslate("#Close", {
 
 ZShelter.AddTranslate("#ShelterNick", {
 	["en"] = "Tier <VAR> Shelter",
-	["tr"] = "<VAR> Seviye Sığınak",
+	["tr"] = "Seviye <VAR> Sığınak",
 	["ru"] = "Убежище <VAR>-го ур.",
 	["zh-TW"] = "<VAR> 級避難所",
 	["zh-CN"] = "<VAR> 级避难所",
