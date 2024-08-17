@@ -275,7 +275,7 @@ ZShelter.AddTranslate("#Propeller Trap", {
 
 ZShelter.AddTranslate("#Flame Trap", {
 	["en"] = "Flame Trap",
-	["tr"] = "",
+	["tr"] = "Alev Tuzağı",
 	["ru"] = "Огненная ловушка",
 	["zh-TW"] = "火焰陷阱",
 	["zh-CN"] = "喷火陷阱",
@@ -283,7 +283,7 @@ ZShelter.AddTranslate("#Flame Trap", {
 
 ZShelter.AddTranslate("#CMB Trap", {
 	["en"] = "Cyro Mine",
-	["tr"] = "",
+	["tr"] = "Dondurucu Mayın",
 	["ru"] = "",
 	["zh-TW"] = "凍結地雷",
 	["zh-CN"] = "冻结地雷",
