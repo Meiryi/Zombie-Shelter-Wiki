@@ -273,6 +273,22 @@ ZShelter.AddTranslate("#Propeller Trap", {
 	["zh-CN"] = "锯刃陷阱",
 })
 
+ZShelter.AddTranslate("#Flame Trap", {
+	["en"] = "Flame Trap",
+	["tr"] = "",
+	["ru"] = "Огненная ловушка",
+	["zh-TW"] = "火焰陷阱",
+	["zh-CN"] = "喷火陷阱",
+})
+
+ZShelter.AddTranslate("#CMB Trap", {
+	["en"] = "Cyro Mine",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "凍結地雷",
+	["zh-CN"] = "冻结地雷",
+})
+
 ZShelter.AddTranslate("#Basic Turret", {
 	["en"] = "Basic Turret",
 	["tr"] = "Temel Taret",
@@ -523,7 +539,7 @@ ZShelter.AddTranslate("#Not Ready", {
 
 ZShelter.AddTranslate("#ReadyHint", {
 	["en"] = "Press F4 to ready",
-	["tr"] = "Hazırlamak için F4'e basın",
+	["tr"] = "Hazır olmak için F4'e basın",
 	["ru"] = "F4 - готовность",
 	["zh-TW"] = "F4 - 準備",
 	["zh-CN"] = "F4 - 准备",
@@ -932,7 +948,7 @@ ZShelter.AddTranslate("#EditModeHintAim", {
 ZShelter.AddTranslate("#AvgFail", {
 	["en"] = "Average fail on <VAR> difficulty",
 	["tr"] = "<VAR> zorluğunda ortalama başarısızlık",
-	["ru"] = "Средне проигрышей на сложности «<VAR>»",
+	["ru"] = "Ср. проигрышей на сложности «<VAR>»",
 	["zh-TW"] = "在<VAR>難度上的平均失敗點",
 	["zh-CN"] = "在<VAR>难度上的平均失败点",
 })
@@ -956,7 +972,7 @@ ZShelter.AddTranslate("#TotalFailed", {
 ZShelter.AddTranslate("#WinFailRatio", {
 	["en"] = "Win/Fail Ratio : <VAR>",
 	["tr"] = "Kazanma/Yenilgi Oranı: <VAR>",
-	["ru"] = "из которых <VAR> проиграны",
+	["ru"] = "Соотн. побед/поражений: <VAR>",
 	["zh-TW"] = "勝利/失敗比例 : <VAR>",
 	["zh-CN"] = "输赢比 : <VAR>",
 })
@@ -980,7 +996,7 @@ ZShelter.AddTranslate("#Fetching", {
 ZShelter.AddTranslate("#FindOtherPlayer", {
 	["en"] = "Look for other players to play with!",
 	["tr"] = "Oynamak için oyuncu ara!",
-	["ru"] = "Найдите других игроков, с которыми можно поиграть!",
+	["ru"] = "Найдите других игроков для игры!",
 	["zh-TW"] = "尋找其他玩家一起進行遊戲!",
 	["zh-CN"] = "寻找其他玩家一起游玩!",
 })
@@ -996,7 +1012,7 @@ ZShelter.AddTranslate("#NDay", {
 ZShelter.AddTranslate("#ConnectionHint", {
 	["en"] = "Connection might take a while, please be patient",
 	["tr"] = "Bağlanmak biraz sürebilir, lütfen sabırlı olun",
-	["ru"] = "Подключение может занять некоторое время, пожалуйста, будьте терпеливы",
+	["ru"] = "Подключение может занять время, будьте терпеливы",
 	["zh-TW"] = "連線需要一段時間, 請耐心等待",
 	["zh-CN"] = "连接需要一些时间, 请耐心等候",
 })
@@ -1097,7 +1113,6 @@ ZShelter.AddTranslate("#PTS", {
 	["zh-CN"] = "<VAR> 贡献点",
 })
 
--- IT'S LITERALLY THE SAME LOL
 ZShelter.AddTranslate("#MVP", {
 	["en"] = "[MVP] <VAR>",
 	["tr"] = "[EDO] <VAR>",
@@ -1106,20 +1121,84 @@ ZShelter.AddTranslate("#MVP", {
 	["zh-CN"] = "[MVP] <VAR>",
 })
 
+ZShelter.AddTranslate("#ServerList", {
+	["en"] = "Server List",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "伺服器列表",
+	["zh-CN"] = "服务器列表",
+})
+
+ZShelter.AddTranslate("#ServerListHint", {
+	["en"] = "Servers on this list are running Zombie Shelter v2",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "在此列表上的伺服器都在運行 Zombie Shelter v2",
+	["zh-CN"] = "在此列表上的服务器都在运行 Zombie Shelter v2",
+})
+
+ZShelter.AddTranslate("#ServerListAddr", {
+	["en"] = "Address : <VAR>",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "伺服器IP : <VAR>",
+	["zh-CN"] = "服务器IP : <VAR>",
+})
+
+ZShelter.AddTranslate("#ServerListClick", {
+	["en"] = "Click to join",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "點擊加入",
+	["zh-CN"] = "点击加入",
+})
+
+ZShelter.AddTranslate("#SpawnPointExtra", {
+	["en"] = "Enemy Spawn Point",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "敵人生成點",
+	["zh-CN"] = "敌人生成点",
+})
+
+ZShelter.AddTranslate("#SpawnPointExtraDesc", {
+	["en"] = "An extra spawn point for enemy to spawn",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "敵人重生點",
+	["zh-CN"] = "敌人重生点",
+})
+
+ZShelter.AddTranslate("#SpawnPointDedicated", {
+	["en"] = "Dedicated Enemy Spawn Point",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "固定敵人生成點",
+	["zh-CN"] = "固定敌人生成点",
+})
+
+ZShelter.AddTranslate("#SpawnPointDedicatedDesc", {
+	["en"] = "An DEDICATED spawn point, if you placed any of this enemy will be spawn at this fixed position",
+	["tr"] = "",
+	["ru"] = "",
+	["zh-TW"] = "放置後敵人會被生成在這個固定的位置",
+	["zh-CN"] = "放置后敌人会被生成在这个固定的位置",
+})
+
 local TemporaryUnsupportedLanguage = {
+
 }
+
+-- Bruh someone ran the formatted on this
 
 function ZShelter_GetTranslate_Var(input, int)
 	local language = GetConVar("gmod_language"):GetString()
-	if not ZShelter.Lang[input] then return string.Replace(input, "#", "") end
-
-	if not ZShelter.Lang[input][language] or TemporaryUnsupportedLanguage[language] then
+	if(!ZShelter.Lang[input]) then return string.Replace(input, "#", "") end
+	if(!ZShelter.Lang[input][language] || TemporaryUnsupportedLanguage[language]) then
 		language = "en"
-		if not ZShelter.Lang[input][language] then return string.Replace(input, "#", "") end
+		if(!ZShelter.Lang[input][language]) then return string.Replace(input, "#", "") end
 	end
-
 	local str = ZShelter.Lang[input][language]
-
 	return string.Replace(str, "<VAR>", int)
 end
 
@@ -1133,12 +1212,12 @@ end
 
 function ZShelter_GetTranslate(input)
 	local language = GetConVar("gmod_language"):GetString()
-	if not ZShelter.Lang[input] then return string.Replace(input, "#", "") end
-
-	if not ZShelter.Lang[input][language] or TemporaryUnsupportedLanguage[language] then
+	if(!ZShelter.Lang[input]) then return string.Replace(input, "#", "") end
+	if(!ZShelter.Lang[input][language] || TemporaryUnsupportedLanguage[language]) then
 		language = "en"
-		if not ZShelter.Lang[input][language] then return string.Replace(input, "#", "") end
+		if(!ZShelter.Lang[input][language]) then return string.Replace(input, "#", "") end
 	end
-
-	return ZShelter.Lang[input][language]
+	local ret = ZShelter.Lang[input][language]
+	if(ret == "") then return ZShelter.Lang[input]["en"] end
+	return ret
 end
