@@ -131,7 +131,7 @@ ZShelter.AddTranslate("#Storage", {
 
 ZShelter.AddTranslate("#Public Construction", {
 	["en"] = "Public Construction",
-	["tr"] = "Herkese Açık İnşaat",
+	["tr"] = "Ortak Yapı",
 	["ru"] = "Общ. строительство",
 	["zh-TW"] = "公共建設",
 	["zh-CN"] = "公共设施",
@@ -827,7 +827,7 @@ ZShelter.AddTranslate("#Close", {
 
 ZShelter.AddTranslate("#ShelterNick", {
 	["en"] = "Tier <VAR> Shelter",
-	["tr"] = "<VAR> Seviye Sığınak",
+	["tr"] = "Seviye <VAR> Sığınak",
 	["ru"] = "Убежище <VAR>-го ур.",
 	["zh-TW"] = "<VAR> 級避難所",
 	["zh-CN"] = "<VAR> 级避难所",
@@ -1123,7 +1123,7 @@ ZShelter.AddTranslate("#MVP", {
 
 ZShelter.AddTranslate("#ServerList", {
 	["en"] = "Server List",
-	["tr"] = "",
+	["tr"] = "Sunucu Listesi",
 	["ru"] = "",
 	["zh-TW"] = "伺服器列表",
 	["zh-CN"] = "服务器列表",
@@ -1147,7 +1147,7 @@ ZShelter.AddTranslate("#ServerListAddr", {
 
 ZShelter.AddTranslate("#ServerListClick", {
 	["en"] = "Click to join",
-	["tr"] = "",
+	["tr"] = "Katılmak için tıkla",
 	["ru"] = "",
 	["zh-TW"] = "點擊加入",
 	["zh-CN"] = "点击加入",
@@ -1155,7 +1155,7 @@ ZShelter.AddTranslate("#ServerListClick", {
 
 ZShelter.AddTranslate("#SpawnPointExtra", {
 	["en"] = "Enemy Spawn Point",
-	["tr"] = "",
+	["tr"] = "Düşman Doğma Noktası",
 	["ru"] = "",
 	["zh-TW"] = "敵人生成點",
 	["zh-CN"] = "敌人生成点",
