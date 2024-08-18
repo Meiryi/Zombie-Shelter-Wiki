@@ -101,7 +101,7 @@ ZShelter.AddInfo("Advanced Gathering", {
 ZShelter.AddInfo("Chain Gathering", {
 	title = {
 		["en"] = "Chain Gathering",
-		["tr"] = "Zincirleme Toplama",
+		["tr"] = "Çoklu Toplama",
 		["zh-TW"] = "連鎖採集",
 		["zh-CN"] = "连锁采集",
 		["ru"] = "Цепной сбор",
@@ -172,7 +172,7 @@ ZShelter.AddInfo("Cloaking", {
 	},
 	desc = {
 		["en"] = "Become invisible for 30 seconds, enemy cannot see you while you're invisible",
-		["tr"] = "30 saniye boyunca görünmez ol, düşman seni görünmezken göremez",
+		["tr"] = "30 saniye boyunca görünmez olun, düşman seni görünmezken göremez",
 		["zh-TW"] = "隱身30秒, 隱身時不會被敵人攻擊",
 		["zh-CN"] = "隐身30秒, 隐身时不会被敌人攻击",
 		["ru"] = "Становитесь невидимым на 30 секунд, враги не видят вас, пока вы невидимы",
@@ -315,11 +315,11 @@ ZShelter.AddInfo("Reinforced Traps", {
 		["ru"] = "Укреплённые ловушки",
 	},
 	desc = {
-		["en"] = "Increase trap's health, +15% health per upgrade",
-		["tr"] = "Tuzağın sağlığını artırır, yükseltme başına +%15",
-		["zh-TW"] = "增加陷阱的耐久, 每升級一次增加 15%",
-		["zh-CN"] = "增加陷阱的耐久, 每升一级增加 15%",
-		["ru"] = "Увеличивает прочность ловушек, +15% прочности за улучшение",
+		["en"] = "Increase trap's health, +35% health per upgrade",
+		["tr"] = "Tuzağın sağlığını artırır, yükseltme başına +%35",
+		["zh-TW"] = "增加陷阱的耐久, 每升級一次增加 35%",
+		["zh-CN"] = "增加陷阱的耐久, 每升一级增加 35%",
+		["ru"] = "Увеличивает прочность ловушек, +35% прочности за улучшение",
 	}
 })
 ZShelter.AddInfo("Slick Repairing", {
